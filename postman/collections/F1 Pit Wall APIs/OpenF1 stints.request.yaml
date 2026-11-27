@@ -1,0 +1,7 @@
+$kind: http-request
+url: https://api.openf1.org/v1/stints?session_key=9912&driver_number=1
+method: GET
+queryParams:
+  session_key: "9912"
+  driver_number: "1"
+order: 4000

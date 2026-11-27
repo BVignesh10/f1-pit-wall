@@ -1,0 +1,7 @@
+$kind: http-request
+url: https://api.openf1.org/v1/sessions?year=2025&session_name=Race
+method: GET
+queryParams:
+  year: "2025"
+  session_name: Race
+order: 1000

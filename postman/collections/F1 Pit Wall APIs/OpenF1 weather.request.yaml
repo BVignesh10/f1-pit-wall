@@ -1,0 +1,6 @@
+$kind: http-request
+url: https://api.openf1.org/v1/weather?session_key=9912
+method: GET
+queryParams:
+  session_key: "9912"
+order: 7000
